@@ -5,7 +5,7 @@
 👋 Hi, I’m Amzad Hossain Notun
 👀 I’m interested in Web Development and Software Development
 🌱 Currently focusing on Frontend and Backend Web Development in depth
-📫 Find me on Facebook at mdamzadhossain.notun.35
+
 
 
 
