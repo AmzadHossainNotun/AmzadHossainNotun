@@ -11,7 +11,7 @@
 
 Skills:  JS / HTML / CSS/ PYTHON 
 
-- 🔭 I’m currently working on Instagram 
+- 🔭 I’m currently working on Programming 
 - 🌱 I’m currently learning JS 
 - 💬 Ask me about Web Development 
 
